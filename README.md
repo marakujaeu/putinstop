@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## [Click to open](https://github.com/marakujaeu/putinstop/index.html)
 
 You can use the [editor on GitHub](https://github.com/marakujaeu/putinstop/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
